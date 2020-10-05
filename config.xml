@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.sawyerique.cameratest"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Camera Test Experiment</name>
+
+  <description>
+      THIS APP IS ONLY FOR TESTING PURPOSES ONLY AND NOT TO DISTRIBUTE TO APP STORES.
+  </description>
+
+  <author href="https://www.youtube.com/channel/UC-JKIGYyFrVv7ttiIhmtI6Q" email="chukoloco08@gmail.com">
+      Sawyer Ique
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
